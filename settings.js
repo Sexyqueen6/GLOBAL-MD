@@ -19,7 +19,7 @@ global.wm = "Global Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD15' //script link
 global.packname = "Sticker By"
 global.author = "𝐆𝐋𝐎𝐁𝐀𝐋-𝐌𝐃\n\n18768375254"
-global.creator = "923444844060@s.whatsapp.net"
+global.creator = "18768375254@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["18768375254"] // Premium User
 
